@@ -6,8 +6,8 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
-number = "05339613977"
-password = "Barkal334224+*+*"
+number = "Your Number"
+password = "Your Password"
 
 class twitterBot:
     def __init__(self,number,password):
